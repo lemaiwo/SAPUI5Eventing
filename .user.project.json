@@ -1,0 +1,27 @@
+{
+  "run": [
+    {
+      "filePath": "/DemoEventing/webapp/test/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "destBackendSystem": [
+        "amgw",
+        "flexsogw",
+        "G2D",
+        "amonehris"
+      ],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 8760937,
+        "displayName": "New Web Application 17"
+      }
+    }
+  ]
+}
